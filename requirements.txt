@@ -1,0 +1,11 @@
+yt_dlp
+dotenv
+openai
+youtube_transcript_api
+assemblyai
+gradient
+TikTokApi
+moviepy==1.0.3
+pillow==9.5.0
+mediapipe
+opencv-python

@@ -1,0 +1,10 @@
+# Virtual env
+venv/
+
+# Cache Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac/Linux junk files
+.DS_Store
